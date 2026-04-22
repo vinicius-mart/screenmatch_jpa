@@ -33,7 +33,7 @@ public class Principal {
         while(opcao != 0) {
 
             var menu = """
-                    1 - Buscar séries
+                    1 - Buscar Séries
                     2 - Buscar episódios
                     3 - Listar séries
                     4 - Buscar série pelo título
